@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# INDIA MAP REACT APP
 
 A sample implementation to show Map of India along with it's States using `react-simple-maps`  
 
